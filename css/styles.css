@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Gloria+Hallelujah&family=Indie+Flower&family=Mochiy+Pop+One&family=Orbitron&family=Pacifico&family=Patrick+Hand&family=Press+Start+2P&display=swap");
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+#main_head {
+  font-size: xx-large;
+}
+
+body {
+  font-family: "Mochiy Pop One", sans-serif;
+}
+/* 
+.navbar-brand {
+}
+.navbar-nav {
+  font-family: "Mochiy Pop One", sans-serif;
+} */
+
+h1 {
+  /* font-family: "Mochiy Pop One", sans-serif; */
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.nav-item {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.download {
+  margin: 5% 3% 5% 0;
+}
+
+.iphImg {
+  width: 60%;
+  transform: rotate(15deg);
+}
+
+.icons {
+  color: #ef8172;
+}
+
+.ftr {
+  padding: 10% 5% 10%;
+  text-align: center;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.icons:hover {
+  color: #f35540;
+}
+
+#testimonials {
+  padding: 5% 5%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+h2 {
+  line-height: 2.5;
+}
+
+.tst_img {
+  width: 30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 5%;
+}
+
+.press_logos {
+  width: 18%;
+  margin: 2% 3%;
+}
+
+#pricing {
+  padding: 80px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.c1 {
+  text-align: center;
+  padding: 12%;
+  background-color: #ef8172;
+}
+
+#footer {
+  padding: 3%;
+  text-align: center;
+}
+
+.elt {
+  padding-left: 1%;
+  padding-right: 1%;
+}
